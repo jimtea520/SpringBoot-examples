@@ -7,7 +7,7 @@ import javax.crypto.spec.IvParameterSpec;
 import javax.crypto.spec.SecretKeySpec;
 
 /**
- * @author fking
+ * @author coderJim
  * @date 2023-04-25 00:07
  */
 public class SecretUtils {
